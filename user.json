@@ -1,0 +1,15 @@
+[
+  {
+    "enable": true,
+    "alias": "张三",
+    "phone": "15392140901",
+    "password": "CD030813",
+    "deviceType": "huawei|STK-ALOO|10",
+    "deviceId": "805b77ca93584bf2b217890bf203e7797601",
+    "randomLocation": true,
+    "address": "河南省郑州市荥阳市织机路与禹锡南二路交叉口西北侧河南高格中央空调设备有限公司",
+    "longitude": "113.440905",
+    "latitude": "34.760820",
+    "pushKey": "ed8d7376d7c34ffdac985e2e3c5ded1f"
+  }
+]
